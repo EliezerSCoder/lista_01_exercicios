@@ -7,7 +7,15 @@ inteiro. O programa deve verificar se o número é par ou ímpar. Utilize a
 condição if para determinar o resultado e exiba uma mensagem apropriada.
 o Exemplo de Saída: "O número é par." ou "O número é ímpar."
 */
+ 
+Console.WriteLine("digite um numero:");
+    int numero = int.Parse(Console.ReadLine());
 
-Console.WriteLine("digite um numero:"
-    int numero = int.Parse(Console.readline());
-if %
+    if (numero % 2 == 0)
+    {
+        Console.WriteLine(" numero par");
+    }if
+    {
+        Console.WriteLine("numero impar");
+    }
+    else 

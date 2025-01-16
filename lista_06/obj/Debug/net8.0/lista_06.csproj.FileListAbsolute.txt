@@ -1,0 +1,15 @@
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\bin\Debug\net8.0\lista_06.exe
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\bin\Debug\net8.0\lista_06.deps.json
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\bin\Debug\net8.0\lista_06.runtimeconfig.json
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\bin\Debug\net8.0\lista_06.dll
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\bin\Debug\net8.0\lista_06.pdb
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.AssemblyInfoInputs.cache
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.AssemblyInfo.cs
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.csproj.CoreCompileInputs.cache
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.sourcelink.json
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.dll
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\refint\lista_06.dll
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.pdb
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\lista_06.genruntimeconfig.cache
+C:\Users\eliezer.psantos1\source\lista_01_exercicios\lista_01_exercicios\lista_06\obj\Debug\net8.0\ref\lista_06.dll

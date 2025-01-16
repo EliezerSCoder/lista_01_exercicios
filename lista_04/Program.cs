@@ -7,3 +7,14 @@ verificar se o número está no intervalo e exiba uma mensagem informando
 o resultado.
 o Exemplo de Saída: "O número está entre 1 e 100." ou "O número não está 
 entre 1 e 100."*/
+Console.WriteLine("digite um numero entre 1 e 100");
+float numero = float.Parse(Console.ReadLine());
+
+if (numero >= 1 && numero <= 100)
+{
+    Console.WriteLine("o numero esta entre 1 e 100");
+}
+else
+{
+    Console.WriteLine("numero não esta entre 1 e 100");
+}
