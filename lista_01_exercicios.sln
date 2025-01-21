@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_01", "lista_01\lista_01.csproj", "{15CC089A-A9C5-49A0-A0A2-5202FD62B2F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_01", "lista_01\lista_01.csproj", "{15CC089A-A9C5-49A0-A0A2-5202FD62B2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_02", "lista_02\lista_02.csproj", "{543510DB-2703-439A-88C5-B15E2A07B001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_02", "lista_02\lista_02.csproj", "{543510DB-2703-439A-88C5-B15E2A07B001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_03", "lista_03\lista_03.csproj", "{61709548-E208-4D8C-A5C8-B36712E56FAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_03", "lista_03\lista_03.csproj", "{61709548-E208-4D8C-A5C8-B36712E56FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_04", "lista_04\lista_04.csproj", "{DCFF7361-6809-4BE8-BC76-36C67BF9A3A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_04", "lista_04\lista_04.csproj", "{DCFF7361-6809-4BE8-BC76-36C67BF9A3A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_05", "lista_5\lista_05.csproj", "{33F048D9-B5E4-40C1-9B6D-34BAF5C4C2B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_05", "lista_5\lista_05.csproj", "{33F048D9-B5E4-40C1-9B6D-34BAF5C4C2B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_06", "lista_06\lista_06.csproj", "{0030B156-7194-4578-B314-8A71745FF29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_06", "lista_06\lista_06.csproj", "{0030B156-7194-4578-B314-8A71745FF29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_07", "lista_07\lista_07.csproj", "{1F3B6A67-941A-4D6A-9C75-E58F7BD27511}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_07", "lista_07\lista_07.csproj", "{1F3B6A67-941A-4D6A-9C75-E58F7BD27511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_08", "lista_08\lista_08.csproj", "{B0CD3F85-2F9C-4A0F-9654-9B25B9344D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_08", "lista_08\lista_08.csproj", "{B0CD3F85-2F9C-4A0F-9654-9B25B9344D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_09", "lista_09\lista_09.csproj", "{38FEFCCC-4DF5-4E16-95F7-7B837125DB48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_09", "lista_09\lista_09.csproj", "{38FEFCCC-4DF5-4E16-95F7-7B837125DB48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_10", "lista_10\lista_10.csproj", "{F4C2A0AE-0C46-4C04-A8B4-453B88157CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_10", "lista_10\lista_10.csproj", "{F4C2A0AE-0C46-4C04-A8B4-453B88157CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste_github", "teste_github\teste_github.csproj", "{C36E4C74-A415-4996-853E-329B6CC14D6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{F4C2A0AE-0C46-4C04-A8B4-453B88157CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4C2A0AE-0C46-4C04-A8B4-453B88157CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4C2A0AE-0C46-4C04-A8B4-453B88157CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36E4C74-A415-4996-853E-329B6CC14D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36E4C74-A415-4996-853E-329B6CC14D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36E4C74-A415-4996-853E-329B6CC14D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36E4C74-A415-4996-853E-329B6CC14D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
